@@ -1,4 +1,4 @@
-# Music Player
+# SALIFU Music Player
 
 learn basic string and array methods by building a music player
 
@@ -8,5 +8,5 @@ In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript.
 
 THE PROJECT RESUTL
 
-![music player 1](https://github.com/SamitSaha/Music-Player/assets/72096509/ddf56ab7-6f21-452d-940d-b4d93389a02a)
-![music player 2](https://github.com/SamitSaha/Music-Player/assets/72096509/b26e46a8-1ac8-4406-b8d7-e5fb5ddf4dda)
+![music player 1](https://github.com/Plug2740/Music-Player/edit/main/README.md)
+![music player 2](https://github.com/Plug2740/Music-Player/edit/main/README.md)
