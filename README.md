@@ -1,4 +1,4 @@
-# SALIFU Music Player
+# Salifu Music Player
 
 learn basic string and array methods by building a music player
 
